@@ -79,7 +79,7 @@ var count = 0;
 }
 }
 //xhttp.open("GET","ajax.txt",true);
-xhttp.open("GET","http://jsonplaceholder.typicode.com/todos",true);
+xhttp.open("GET","https://jsonplaceholder.typicode.com/todos",true);
 xhttp.send();
 }
 
